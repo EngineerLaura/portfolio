@@ -1,2 +1,2 @@
 # portfolio
-Personal portfolio showing my skills
+Personal portfolio s
